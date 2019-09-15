@@ -15,11 +15,11 @@ return [
     // 服务器地址
     'hostname'        => '127.0.0.1',
     // 数据库名
-    'database'        => 'localhost',
+    'database'        => 'piano_openadc_c',
     // 用户名
-    'username'        => 'localhost',
+    'username'        => 'piano_openadc_c',
     // 密码
-    'password'        => 'localhost',
+    'password'        => 'aCapZWXSE7',
     // 端口
     'hostport'        => '',
     // 连接dsn
