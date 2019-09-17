@@ -3,7 +3,7 @@ Piano-MIDI
 
 支持接入电钢琴等设备MIDI数据，实时显示弹奏内容。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
 
-![DEMO](https://piano.openadc.com/static/images/show.gif)
+![](https://piano.openadc.com/static/images/show.gif)
 
 功能特性
 =======
