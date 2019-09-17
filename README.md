@@ -1,10 +1,13 @@
 Piano-MIDI
 ===
 
-支持接入电钢琴等设备MIDI数据，实时显示弹奏内容。
+支持接入电钢琴等设备MIDI数据，实时显示弹奏内容。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
+
+![DEMO](https://piano.openadc.com/static/images/show.gif)
 
 功能特性
 =======
+
 - 实时接收MIDI数据并显示
 - 可调控的显示速度和颜色
 
