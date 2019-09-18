@@ -1,7 +1,7 @@
 Piano-MIDI
 ===
 
-支持接入电钢琴等设备MIDI数据，实时显示弹奏内容。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
+接入电钢琴等设备MIDI接口，根据键盘的弹奏实时显示瀑布流线条。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
 
 ![](https://piano.openadc.com/static/images/show.gif)
 
