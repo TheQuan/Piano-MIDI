@@ -1,7 +1,7 @@
 Piano-MIDI
 ===
 
-接入电钢琴等设备MIDI接口，根据键盘的弹奏实时显示瀑布流线条。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
+接入电钢琴等设备MIDI接口，通过钢琴的弹奏实时显示瀑布流线条。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
 
 ![](https://piano.openadc.com/static/images/show.gif)
 
@@ -9,7 +9,7 @@ Piano-MIDI
 =======
 
 - 实时接收MIDI数据并显示
-- 可调控的显示速度和颜色
+- 可调控的速度和显示的颜色
 
 环境依赖
 =======
