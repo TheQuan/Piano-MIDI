@@ -3,8 +3,6 @@ Piano-MIDI
 
 接入电钢琴等设备MIDI接口，通过钢琴的弹奏实时显示瀑布流线条。[在线演示DEMO](https://piano.openadc.com/index.php/index/index/showView)
 
-![](https://piano.openadc.com/static/images/show_.gif)
-
 功能特性
 =======
 
